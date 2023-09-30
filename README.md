@@ -8,7 +8,7 @@ de desenvolvimento.</p></h4>
 
 <p align="center"><img width="20%" src="https://komarev.com/ghpvc/?username=ronaldo-devlearning&label=Profile%20views&color=0e75b6&style=plastic" alt="ronaldo-devlearning" /></p>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronaldo-devlearning" alt="ronaldo-devlearning" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronaldo-devlearning&margin-w=10&row=1&column=7&theme=radical" alt="ronaldo-devlearning" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
